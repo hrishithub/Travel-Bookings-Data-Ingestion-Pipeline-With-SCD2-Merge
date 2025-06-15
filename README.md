@@ -1,0 +1,2 @@
+# Travel-Bookings-Data-Ingestion-Pipeline-With-SCD2-Merge
+This project demonstrates how to build a scalable and production-oriented data ingestion pipeline for travel booking data using Delta Lake, PySpark, and Databricks. It incorporates SCD2 (Slowly Changing Dimension Type 2) merge logic and data quality checks using PyDeequ, ensuring historical accuracy and data trust for reporting and analysis.
