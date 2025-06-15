@@ -1,7 +1,7 @@
 {
   "job_id": 171525165200107,
-  "creator_user_name": "shashankde219@gmail.com",
-  "run_as_user_name": "shashankde219@gmail.com",
+  "creator_user_name": "hrishikeshgawde2002@gmail.com",
+  "run_as_user_name": "hrishikeshgawde2002@gmail.com",
   "run_as_owner": true,
   "settings": {
     "name": "scd2_merge_flow",
@@ -16,7 +16,7 @@
         "task_key": "booking_fact_job",
         "run_if": "ALL_SUCCESS",
         "notebook_task": {
-          "notebook_path": "/Workspace/Users/shashankde219@gmail.com/scd2_merge/Travel_Booking_SCD2_Merge",
+          "notebook_path": "/Workspace/Users/hrishikeshgawde2002@gmail.com/scd2_merge/Travel_Booking_SCD2_Merge",
           "base_parameters": {
             "arrival_date": "2024-07-26"
           },
