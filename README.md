@@ -51,7 +51,7 @@ Main notebook that:
 - Implementation of Slowly Changing Dimension Type 2 logic using Delta Lake's merge syntax.
 - Real-world data checks and validation using PyDeequ and converting check results to filterable DataFrames to see which checks passed or failed.
 - File ingestion based on user input (or defaulting to current date).
-- Workflow scheduling in Databricks with parameterized notebooks for flexible automation.
+- Workflow scheduling in Databricks with parameterized notebooks.
 
 
 
